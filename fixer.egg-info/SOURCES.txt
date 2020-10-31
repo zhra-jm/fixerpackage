@@ -1,0 +1,8 @@
+setup.py
+fixer/__init__.py
+fixer/handler.py
+fixer.egg-info/PKG-INFO
+fixer.egg-info/SOURCES.txt
+fixer.egg-info/dependency_links.txt
+fixer.egg-info/not-zip-safe
+fixer.egg-info/top_level.txt
